@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/models'
+let g:netrw_dirhist_2='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/models/dcmgr_resource'
+let g:netrw_dirhist_3='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/controllers'
+let g:netrw_dirhist_4='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui'
+let g:netrw_dirhist_5='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app'
+let g:netrw_dirhist_6='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/controllers'
+let g:netrw_dirhist_7='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui'
+let g:netrw_dirhist_8='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/views/instances'
+let g:netrw_dirhist_9='/home/wakame/work/wakame-vdc/frontend/dcmgr_gui/app/views/layouts'
