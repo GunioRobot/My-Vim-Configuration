@@ -1,1 +1,0 @@
-/home/wakame/.vim/bundle/vim-pathogen/autoload/pathogen.vim
