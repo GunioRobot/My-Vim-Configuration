@@ -22,6 +22,3 @@
 [submodule "bundle/vim-ref"]
 	path = bundle/vim-ref
 	url = https://github.com/thinca/vim-ref
-[submodule "bundle/neocomplcache"]
-	path = bundle/neocomplcache
-	url = https://github.com/Shougo/neocomplcache.git
