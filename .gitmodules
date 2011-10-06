@@ -25,27 +25,27 @@
 [submodule "bundle/neocomplcache"]
 	path = bundle/neocomplcache
 	url = https://github.com/Shougo/neocomplcache.git
-[submodule "unite.vim"]
-	path = unite.vim
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
 	url = git://github.com/Shougo/unite.vim.git
-[submodule "vim-project"]
-	path = vim-project
+[submodule "bundle/vim-project"]
+	path = bundle/vim-project
 	url = git://github.com/shemerey/vim-project.git
-[submodule "vim-sudo"]
-	path = vim-sudo
+[submodule "bundle/vim-sudo"]
+	path = bundle/vim-sudo
 	url = git://github.com/now/vim-sudo.git
-[submodule "vim-smartchr"]
-	path = vim-smartchr
+[submodule "bundle/vim-smartchr"]
+	path = bundle/vim-smartchr
 	url = git://github.com/kana/vim-smartchr.git
-[submodule "vim-qfreplace"]
-	path = vim-qfreplace
+[submodule "bundle/vim-qfreplace"]
+	path = bundle/vim-qfreplace
 	url = git://github.com/thinca/vim-qfreplace.git
-[submodule "gist-vim"]
-	path = gist-vim
+[submodule "bundle/gist-vim"]
+	path = bundle/gist-vim
 	url = git://github.com/mattn/gist-vim.git
-[submodule "tcomment_vim"]
-	path = tcomment_vim
+[submodule "bundle/tcomment_vim"]
+	path = bundle/tcomment_vim
 	url = git://github.com/tomtom/tcomment_vim.git
-[submodule "vim-emacscommandline"]
-	path = vim-emacscommandline
+[submodule "bundle/vim-emacscommandline"]
+	path = bundle/vim-emacscommandline
 	url = git://github.com/houtsnip/vim-emacscommandline.git
