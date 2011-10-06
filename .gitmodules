@@ -28,3 +28,24 @@
 [submodule "unite.vim"]
 	path = unite.vim
 	url = git://github.com/Shougo/unite.vim.git
+[submodule "vim-project"]
+	path = vim-project
+	url = git://github.com/shemerey/vim-project.git
+[submodule "vim-sudo"]
+	path = vim-sudo
+	url = git://github.com/now/vim-sudo.git
+[submodule "vim-smartchr"]
+	path = vim-smartchr
+	url = git://github.com/kana/vim-smartchr.git
+[submodule "vim-qfreplace"]
+	path = vim-qfreplace
+	url = git://github.com/thinca/vim-qfreplace.git
+[submodule "gist-vim"]
+	path = gist-vim
+	url = git://github.com/mattn/gist-vim.git
+[submodule "tcomment_vim"]
+	path = tcomment_vim
+	url = git://github.com/tomtom/tcomment_vim.git
+[submodule "vim-emacscommandline"]
+	path = vim-emacscommandline
+	url = git://github.com/houtsnip/vim-emacscommandline.git
