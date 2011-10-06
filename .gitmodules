@@ -25,3 +25,6 @@
 [submodule "bundle/neocomplcache"]
 	path = bundle/neocomplcache
 	url = https://github.com/Shougo/neocomplcache.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = git://github.com/Shougo/unite.vim.git
