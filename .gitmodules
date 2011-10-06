@@ -24,7 +24,7 @@
 	url = https://github.com/thinca/vim-ref
 [submodule "bundle/neocomplcache"]
 	path = bundle/neocomplcache
-	url = https://github.com/Shougo/neocomplcache.git
+	url = git://github.com/Shougo/neocomplcache.git
 [submodule "bundle/unite.vim"]
 	path = bundle/unite.vim
 	url = git://github.com/Shougo/unite.vim.git
@@ -49,3 +49,6 @@
 [submodule "bundle/vim-emacscommandline"]
 	path = bundle/vim-emacscommandline
 	url = git://github.com/houtsnip/vim-emacscommandline.git
+[submodule "bundle/unite"]
+	path = bundle/unite
+	url = git://github.com/Shougo/unite.vim.git
